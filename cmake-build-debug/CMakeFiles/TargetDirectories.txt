@@ -1,0 +1,3 @@
+C:/Users/Oana/Documents/FACULTA/oop2/labs/magazin_online/cmake-build-debug/CMakeFiles/magazin_online.dir
+C:/Users/Oana/Documents/FACULTA/oop2/labs/magazin_online/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Oana/Documents/FACULTA/oop2/labs/magazin_online/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\magazin_online.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\magazin_online.dir/objects.a @CMakeFiles\magazin_online.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\magazin_online.dir/objects.a -Wl,--no-whole-archive  -o magazin_online.exe -Wl,--out-implib,libmagazin_online.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\magazin_online.dir\linklibs.rsp
